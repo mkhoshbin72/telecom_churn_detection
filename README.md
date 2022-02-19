@@ -16,4 +16,4 @@ Then i will make some comparisons between outputs of different models.
 - [x] Create Logistic Regression model
 - [x] Create KNN model
 - [x] Create SVC model
-- [] Create Deep Neural Network model
+- [ ] Create Deep Neural Network model
